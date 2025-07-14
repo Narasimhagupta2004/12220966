@@ -48,13 +48,13 @@ create a .env file which includes :
   - MONGO_URI=your_mongodb_connection_string
 
 ### Start the server
-node index.js or npm run dev
+  - node index.js or npm run dev
 ----
 ###Frontend
 
 1. Navigate to frontend folder
 ### Install dependencies:
-npm install
+  - npm install
 ### Start the server
-npm run dev
+  - npm run dev
 
