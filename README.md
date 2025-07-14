@@ -42,10 +42,10 @@ bash
 cd Backend
 ### Install dependencies:
 npm install
-create a .env filw which includes :
+create a .env file which includes :
 
-PORT=port_number
-MONGO_URI=your_mongodb_connection_string
+  - PORT=port_number  
+  - MONGO_URI=your_mongodb_connection_string
 
 ### Start the server
 node index.js or npm run dev
