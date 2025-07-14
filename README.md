@@ -48,7 +48,8 @@ MONGO_URI=your_mongodb_connection_string
 node index.js or npm run dev
 
 ###Frontend
-Navigate to frontend folder
+
+1. Navigate to frontend folder
 ### Install dependencies:
 npm install
 ### Start the server
