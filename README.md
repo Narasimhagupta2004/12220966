@@ -45,7 +45,7 @@ npm install
 PORT=port_number
 MONGO_URI=your_mongodb_connection_string
 ### Start the server
-npm run dev
+node index.js or npm run dev
 
 ###Frontend
 Navigate to frontend folder
