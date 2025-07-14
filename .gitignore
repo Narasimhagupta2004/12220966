@@ -1,3 +1,7 @@
+create a .file which includes the following content:
+MONGO_URI = "mongodb://you url
+PORT = your port
+
 # === Frontend ===
 /Frontend/node_modules/
 /Frontend/dist/
