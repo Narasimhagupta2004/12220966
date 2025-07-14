@@ -1,0 +1,15 @@
+# === Frontend ===
+/Frontend/node_modules/
+/Frontend/dist/
+/Frontend/.env
+/Frontend/.next
+/Frontend/.cache
+
+# === Backend ===
+/Backend/node_modules/
+/Backend/logs/
+/Backend/.env
+/Backend/debug.log
+/Backend/uploads/
+/Backend/*.log
+/Backend/.cache
